@@ -1,0 +1,52 @@
+BEGINNING
+
+Sharer has a file they want to split and send to sharees over LAN
+They visit our remote website
+
+////////////OPTION 1://///////////
+Sharer downloads our EXE which runs Node
+Sharer inputs the following in the EXE:
+  - File/directory path
+  - Number of sections/people to share with
+This information is passed to the remote server
+Remote server responds with a link to the file's page on remote server
+////////////END OF OPTION 1///////
+
+////////////OPTION 2://///////////
+Sharer inputs the following in a form on our website:
+  - File/directory path
+  - Number of sections/people to share with
+Info is injected into our EXE
+Sharer downloads our EXE
+////////////END OF OPTION 2///////
+
+Sharer runs EXE
+  - This will create a server on their computer
+  - We also have to get the computer's local IP address
+  - We need some sort of interface to tell sharer their local IP address and instruct them to share that with sharees
+
+
+
+
+MIDDLE
+
+Sharees visit sharer's server via local IP address on their browser
+The local webpage has a name/email address form
+Server tells the sharee the file/directory name, the size of their chunk of the file and the total filesize
+Sharee clicks file to start downloading file/directory from sharer
+
+Both local and remote server display download info, including who is downloading and their progress
+
+Once the download is finished, instruct sharees to move to different network and visit the link to the file on our website to upload
+
+
+END
+
+Sharee visits the file's page on our website
+Sharee signs in with their name/email
+Sharee selects their file segment and clicks upload
+  STRETCH: Verify user by checking their user/password combo matches the combo sent to local server
+
+Once all the files are uploaded, recombine them
+
+Make file available for download through link created in BEGINNING section
