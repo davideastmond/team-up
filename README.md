@@ -13,4 +13,4 @@ solves the issuse of the amount odf time it takes to upload large files- esspesi
 - David Eastmond @davideastmond
 
 !["sharer app"](https://github.com/thomas-boyer/team-up/blob/feature/setup/docs/wireframe-sharer.jpg?raw=true)
-!["sharee app"]()
+!["sharee app"](https://github.com/thomas-boyer/team-up/blob/feature/setup/docs/wireframe-sharee.jpg?raw=true)
