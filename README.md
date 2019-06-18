@@ -12,6 +12,10 @@ solves the issuse of the amount odf time it takes to upload large files- esspesi
 - [Thomas Boyer](https://github.com/thomas-boyer)
 - [David Eastmond](https://github.com/davideastmond)
 
-!["website"]()
+!["website frontend"](https://github.com/thomas-boyer/team-up/blob/feature/setup/docs/wireframe-frontend.jpg?raw=true)
+
+!["website frontend upload"](https://github.com/thomas-boyer/team-up/blob/feature/setup/docs/wireframe-frontend1.jpg?raw=true)
+
 !["sharer app"](https://github.com/thomas-boyer/team-up/blob/feature/setup/docs/wireframe-sharer.jpg?raw=true)
+
 !["sharee app"](https://github.com/thomas-boyer/team-up/blob/feature/setup/docs/wireframe-sharee.jpg?raw=true)
