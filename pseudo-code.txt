@@ -50,3 +50,6 @@ Sharee selects their file segment and clicks upload
 Once all the files are uploaded, recombine them
 
 Make file available for download through link created in BEGINNING section
+
+
+
