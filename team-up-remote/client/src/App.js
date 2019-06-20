@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import axios from 'axios';
 import './App.css';
 
 class App extends Component {
@@ -18,6 +19,8 @@ class App extends Component {
   {
     e.preventDefault();
     const value = e.target[0].value;
+    const response = await axios.post(`${this.server}/test`, { value });
+    this.setState({ data: response.data.express })
   }
 
   render() {
