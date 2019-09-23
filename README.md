@@ -1,7 +1,7 @@
 ## Team-up
 
 ### Description
-solves the issuse of the amount of time it takes to upload large files- esspesially for teams in companys
+solves the issuse of the amount of time it takes to upload large files- esspesially for teams in companies
 
 ### Target audience
 - Members of teams in companies
