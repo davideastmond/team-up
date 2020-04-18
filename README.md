@@ -5,7 +5,7 @@ solves the issuse of the amount of time it takes to upload large files- esspesia
 
 ### Target audience
 - Members of teams in companies
-- collaboratolrs working on backups working with files, largew media files, uncompressed audio or video
+- collaborators working on backups working with files, large media files, uncompressed audio or video
 
 ### Team Members
 - [Julia Moses](https://github.com/juliamoses)
